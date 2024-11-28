@@ -1,0 +1,3 @@
+files:
+  - source: cloudtower-api-doc/swagger/locales/zh/*.json
+    translation: cloudtower-api-doc/swagger/locales/en/%original_file_name%
